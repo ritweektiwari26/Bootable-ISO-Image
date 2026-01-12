@@ -1,0 +1,5 @@
+{
+  "name": "ISOForge: AI Bootable Image Architect",
+  "description": "A sophisticated tool to design and configure custom bootable ISO images for Linux distributions, leveraging Gemini to generate optimized autoinstall, cloud-init, and shell scripts.",
+  "requestFramePermissions": []
+}
